@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="NoteApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NoteApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="BurlyWood">
+        <Grid HorizontalAlignment="Left" Height="46" Margin="44,10,0,0" VerticalAlignment="Top" Width="1108">
+            <SymbolIcon x:ConnectionId='12' Foreground="Black" x:Name="SaveButton" Symbol="Save" Margin="0,0,1055,0"                                    ToolTipService.ToolTip="Save"></SymbolIcon>
+            <SymbolIcon x:ConnectionId='13' Foreground="Black" x:Name="OpenButton" Symbol="OpenFile" Margin="53,0,1002,0"                                    ToolTipService.ToolTip="Open A File"/>
+            <SymbolIcon x:ConnectionId='14' Foreground="Black" x:Name="UndoButton" Symbol="Undo" Margin="106,0,949,0"                                    ToolTipService.ToolTip="Undo"/>
+            <SymbolIcon x:ConnectionId='15' Foreground="Black" x:Name="RedoButton" Symbol="Redo" Margin="159,0,896,0"                                    ToolTipService.ToolTip="Redo"/>
+            <SymbolIcon x:ConnectionId='16' Foreground="Black" x:Name="SelectAll" Symbol="SelectAll" Margin="212,0,843,0"                                         ToolTipService.ToolTip="Select All"/>
+            <SymbolIcon x:ConnectionId='17' Foreground="Black" x:Name="CopyButton" Symbol="Copy" Margin="265,0,790,0"                                    ToolTipService.ToolTip="Copy"/>
+            <SymbolIcon x:ConnectionId='18' Foreground="Black" x:Name="CutButton" Symbol="Cut" Margin="318,0,737,0"                                   ToolTipService.ToolTip="Cut"/>
+            <SymbolIcon x:ConnectionId='19' Foreground="Black" x:Name="PasteButton" Symbol="Paste" Margin="371,0,684,0"                                     ToolTipService.ToolTip="Paste"/>
+            <SearchBox HorizontalAlignment="Left" Margin="1071,7,-205,0" VerticalAlignment="Top" Width="242"/>
+            <SymbolIcon x:ConnectionId='20' Foreground="Black" x:Name="DeleteButton" Symbol="Delete" Margin="424,0,631,0"                                      ToolTipService.ToolTip="Delete"/>
+            <SymbolIcon x:ConnectionId='21' Foreground="Black" x:Name="FontButton" Symbol="Font" Margin="477,0,578,0"                                    ToolTipService.ToolTip="Font Family"/>
+            <SymbolIcon x:ConnectionId='22' Foreground="Black" x:Name="StyleButton" Symbol="Italic" Margin="530,0,525,0"                                     ToolTipService.ToolTip="Font Style"/>
+            <SymbolIcon x:ConnectionId='23' Foreground="Black" x:Name="BoldButton" Symbol="Bold" Margin="631,0,424,0"                                    ToolTipService.ToolTip="Boldness"/>
+            <SymbolIcon x:ConnectionId='24' Foreground="Black" x:Name="FontSizeButton" Symbol="FontSize" Margin="689,0,366,0"                                        ToolTipService.ToolTip="Font Size"/>
+            <SymbolIcon x:ConnectionId='25' Foreground="Black" x:Name="FontColor" Symbol="FontColor" Margin="747,0,308,0"                                   ToolTipService.ToolTip="Font Color"/>
+            <SymbolIcon x:ConnectionId='26' Foreground="Black" x:Name="PrintButton" Symbol="Document" Margin="863,0,192,0"                               ToolTipService.ToolTip="Print"/>
+            <SymbolIcon x:ConnectionId='27' Foreground="Black" x:Name="UnderlineButton" Symbol="Underline" Margin="583,0,472,0"                                         ToolTipService.ToolTip="Font Style" RenderTransformOrigin="0.25,0.464"/>
+            <SymbolIcon x:ConnectionId='28' Foreground="Black" x:Name="SuperScript" Symbol="Character" Margin="785,0,270,0"                                     ToolTipService.ToolTip="Font Color"/>
+            <SymbolIcon x:ConnectionId='29' Foreground="Black" x:Name="SubScript" Symbol="Character" Margin="843,16,245,0"                                   ToolTipService.ToolTip="Font Color" RenderTransformOrigin="0.208,0.522" Height="15" VerticalAlignment="Top"/>
+        </Grid>
+
+        <ItemsControl Visibility="Collapsed" x:Name="slidingPopup" HorizontalAlignment="Left" Height="41" Margin="661,56,0,0" VerticalAlignment="Top" Width="189">
+            <Slider x:ConnectionId='11' x:Name="sizeSlide" HorizontalAlignment="Left" Width="189" Height="60" Background="#29000000" BorderBrush="Black"                                />
+        </ItemsControl>
+        <RichEditBox x:Name="TxtArea" HorizontalAlignment="Left" Margin="60,97,-170,-145" VerticalAlignment="Top" Height="816" Width="1476" BorderBrush="White"/>
+        <ItemsControl Visibility="Collapsed" x:Name="ColorPicker1" HorizontalAlignment="Left" Height="86" Margin="752,51,0,0" VerticalAlignment="Top" Width="39" RenderTransformOrigin="0.5,0.5">
+            <ItemsControl.RenderTransform>
+                <CompositeTransform ScaleY="-1"/>
+            </ItemsControl.RenderTransform>
+            <SymbolIcon x:ConnectionId='8'                                   x:Name="PinkColor" Symbol="SolidStar" Foreground="#FFF024F0"></SymbolIcon>
+            <SymbolIcon x:ConnectionId='9'                                       x:Name="BlueColor" Symbol="SolidStar" Foreground="#FF2222DA"></SymbolIcon>
+            <SymbolIcon x:ConnectionId='10' x:Name="LightGreenColor" Symbol="SolidStar" Foreground="#FF5CFB2D"                                        ></SymbolIcon>
+        </ItemsControl>
+        <ItemsControl Visibility="Collapsed" x:Name="ColorPicker2" HorizontalAlignment="Left" Height="86" Margin="795,51,0,0" VerticalAlignment="Top" Width="39" RenderTransformOrigin="0.5,0.5">
+            <ItemsControl.RenderTransform>
+                <CompositeTransform ScaleY="-1"/>
+            </ItemsControl.RenderTransform>
+            <SymbolIcon x:ConnectionId='5'                                    x:Name="BrownColor" Symbol="SolidStar" Foreground="#FFB00048"></SymbolIcon>
+            <SymbolIcon x:ConnectionId='6'                                     x:Name="YellowColor" Symbol="SolidStar" Foreground="#FFF9F938"></SymbolIcon>
+            <SymbolIcon x:ConnectionId='7' x:Name="WhiteColor" Symbol="SolidStar" Height="27"                                   />
+        </ItemsControl>
+        <ItemsControl  Visibility="Collapsed" x:Name="ColorPicker3" HorizontalAlignment="Left" Height="86" Margin="838,51,0,0" VerticalAlignment="Top" Width="39" RenderTransformOrigin="0.5,0.5">
+            <ItemsControl.RenderTransform>
+                <CompositeTransform ScaleY="-1"/>
+            </ItemsControl.RenderTransform>
+            <SymbolIcon x:ConnectionId='2'                                    x:Name="BlackColor" Symbol="SolidStar" Foreground="#FF0E080E"/>
+            <SymbolIcon x:ConnectionId='3'                                        x:Name="DarkGreenColor" Symbol="SolidStar" Foreground="#FF25721D"/>
+            <SymbolIcon x:ConnectionId='4'                                  x:Name="RedColor" Symbol="SolidStar" Foreground="#FFF14D32"/>
+        </ItemsControl>
+        <ComboBox Visibility="Collapsed" x:Name="FontCombo" HorizontalAlignment="Left" Margin="646,56,0,0" VerticalAlignment="Top" Width="235" Height="36">
+            <ListViewItem x:ConnectionId='1' x:Name="papyrus" Content="Papyrus"                                />
+            <ListViewItem x:Name="comic" Content="Comic"/>
+            <ListViewItem x:Name="amharic" Content="Amharic"/>
+            <ListViewItem x:Name="english" Content="English"/>
+
+        </ComboBox>
+    </Grid>
+</Page>
+

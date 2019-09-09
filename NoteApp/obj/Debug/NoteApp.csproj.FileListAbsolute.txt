@@ -1,0 +1,63 @@
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\bin\Debug\App.xbf
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\bin\Debug\MainPage.xbf
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\bin\Debug\resources.pri
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\bin\Debug\AppxManifest.xml
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\bin\Debug\NoteApp.build.appxrecipe
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\App.g.i.cs
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\App.g.cs
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\MainPage.g.i.cs
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\MainPage.g.cs
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\XamlTypeInfo.g.cs
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\App.xaml
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\App.xbf
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\XamlSaveStateFile.xml
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\MainPage.xaml
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\MainPage.xbf
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\priconfig.xml
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\priconfig.xml.intermediate
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\layout.resfiles
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\layout.resfiles.intermediate
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\resources.resfiles
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\resources.resfiles.intermediate
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\pri.resfiles
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\pri.resfiles.intermediate
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\qualifiers.txt
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\qualifiers.txt.intermediate
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\henok g\documents\visual studio 2013\Projects\NoteApp\NoteApp\obj\Debug\ProjectArchitectures.txt
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\App.xbf
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\MainPage.xbf
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\NoteApp.xr.xml
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\resources.pri
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\AppxManifest.xml
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\bin\Debug\NoteApp.build.appxrecipe
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\App.g.i.cs
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\App.g.cs
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\MainPage.g.i.cs
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\MainPage.g.cs
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\App.xaml
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\MainPage.xaml
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\App.xbf
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\MainPage.xbf
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\priconfig.xml
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\priconfig.xml.intermediate
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\layout.resfiles
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\layout.resfiles.intermediate
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\resources.resfiles
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\resources.resfiles.intermediate
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\pri.resfiles
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\pri.resfiles.intermediate
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\qualifiers.txt
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Programming\My Programming Works\NoteApp\NoteApp\NoteApp\obj\Debug\ProjectArchitectures.txt
